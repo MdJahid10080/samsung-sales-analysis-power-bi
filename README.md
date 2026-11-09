@@ -2,7 +2,7 @@
 
 Interactive Power BI dashboard exploring mobile sales performance across brands, months, cities, payment methods, customer ratings, and years.
 
-![Dashboard preview](images/samsung-sales-dashboard.jpg)
+
 
 ## Dashboard Highlights
 - KPI cards: Total Sales (769M), Total Quantity (19K), Transactions (4K), Average Unit Price (40K).
