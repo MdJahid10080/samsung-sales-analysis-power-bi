@@ -4,7 +4,7 @@ An interactive Power BI project analysing mobile phone sales performance across 
 
 ## Dashboard Preview
 
-![Samsung Sales Analysis Dashboard](./WhatsApp%20Image%202026-11-09%20at%204.42.32%20PM.jpeg)
+![Samsung Sales Analysis Dashboard](./Samsung_Sales_Dashboard_Preview.jpeg)
 
 ## Key Performance Indicators
 
@@ -36,8 +36,8 @@ An interactive Power BI project analysing mobile phone sales performance across 
 
 ## Project Files
 
-- [Download the Power BI report](./finalprojectbi.pbix)
-- [View the dashboard screenshot](./WhatsApp%20Image%202026-11-09%20at%204.42.32%20PM.jpeg)
+- [Download the Power BI report](./Samsung_Sales_Analysis_Dashboard.pbix)
+- [View the dashboard screenshot](./Samsung_Sales_Dashboard_Preview.jpeg)
 
 ## How to View the Report
 
