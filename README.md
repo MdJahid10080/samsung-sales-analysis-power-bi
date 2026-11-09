@@ -1,6 +1,6 @@
 # Samsung Sales Analysis Dashboard | Power BI
 
-An interactive Power BI project analysing mobile phone sales performance across brands, months, Indian cities, payment methods, customer ratings, and years.
+An interactive Power BI project analysing mobile phone sales performance across brands, months, Indian cities, payment methods, customer ratings, and years. The dashboard presents key sales KPIs and interactive views to make performance easier to explore.
 
 ## Dashboard Preview
 
@@ -8,16 +8,16 @@ An interactive Power BI project analysing mobile phone sales performance across 
 
 ## Key Performance Indicators
 
-| KPI | Value |
+| KPI | Dashboard Value |
 |---|---:|
 | Total Sales | 769M |
-| Total Quantity | 19K |
+| Total Quantity Sold | 19K |
 | Transactions | 4K |
 | Average Unit Price | 40K |
 
-*Values are transcribed from the dashboard screenshot provided with this project.*
+*These values are transcribed from the supplied dashboard screenshot. Please validate them against the source dataset before using them for formal business decisions.*
 
-## What the Dashboard Covers
+## Analysis Included
 
 - **Monthly performance:** quantity trends from January to December.
 - **Geographic performance:** city-wise sales across India.
@@ -25,27 +25,30 @@ An interactive Power BI project analysing mobile phone sales performance across 
 - **Payment analysis:** UPI, debit card, credit card, and cash.
 - **Customer feedback:** customer rating distribution.
 - **Yearly performance:** sales trends from 2021 to 2024.
-- **Interactive filtering:** Month, Payment Method, and Mobile Model slicers.
+- **Interactive filters:** Month, Payment Method, and Mobile Model slicers.
+
+## Tools & Skills Demonstrated
+
+- Microsoft Power BI
+- Data analysis and KPI reporting
+- Interactive data visualization
+- Power Query and DAX, where implemented in the report
 
 ## Project Files
 
-- [`finalprojectbi.pbix`](./finalprojectbi.pbix) — downloadable Power BI report.
-- [`WhatsApp Image 2026-11-09 at 4.42.32 PM.jpeg`](./WhatsApp%20Image%202026-11-09%20at%204.42.32%20PM.jpeg) — dashboard screenshot / preview.
-
-## Tools
-
-- Microsoft Power BI
-- Power Query and DAX (where used in the report)
+- [Download the Power BI report](./finalprojectbi.pbix)
+- [View the dashboard screenshot](./WhatsApp%20Image%202026-11-09%20at%204.42.32%20PM.jpeg)
 
 ## How to View the Report
 
-1. Open the PBIX file in **Power BI Desktop**.
-2. Wait for the report to load.
-3. Use the slicers to explore sales by month, payment method, and mobile model.
+1. Download the PBIX file from this repository.
+2. Open it in **Microsoft Power BI Desktop**.
+3. If Power BI prompts for the source data, reconnect the dataset and refresh the report.
+4. Use the slicers to explore results by month, payment method, and mobile model.
 
-## Author
+## About the Author
 
-**Md Jahid**
+**Md Jahid** — Data Analyst
 
 - GitHub: [@MdJahid10080](https://github.com/MdJahid10080)
 - LinkedIn: [Md Jahid](https://www.linkedin.com/in/md-jahid-039207371)
@@ -53,4 +56,4 @@ An interactive Power BI project analysing mobile phone sales performance across 
 
 ---
 
-If you find this project useful, feel free to star the repository.
+If you find this project useful, feel free to star the repository and share feedback.
